@@ -42,16 +42,15 @@ img {
   padding-left: 50px !important;
   padding-right: 50px !important;
   padding-top: 30px !important;
-  text-align: end;
 }
 .proyectos {
   display: flex;
-  align-items: flex-start;
   justify-content: end;
-  padding-right: 60px !important;
-  padding-top: 30px !important;
 }
 dropdown-menu,
 a:hover {
   color: yellow !important;
+}
+.flex-column {
+  background-color: black;
 }
