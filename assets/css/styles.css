@@ -81,4 +81,10 @@ footer {
   color: aliceblue;
   padding: 15px !important;
   align-items: center;
+  gap: 30px;
+  justify-content: center;
+}
+footer img {
+  width: 30px;
+  height: 33px;
 }
