@@ -96,3 +96,19 @@ footer img {
 .indicación img {
   width: 100px;
 }
+.dropdown {
+  padding-bottom: 50px !important;
+}
+.dropdown-menu img {
+  width: 40px;
+}
+.dropdown-menu-dark {
+  background-color: transparent !important;
+}
+.dropdown-menu {
+  background-size: auto;
+}
+.dropdown-menu {
+  min-width: 10px !important;
+  border: 0 !important;
+}
