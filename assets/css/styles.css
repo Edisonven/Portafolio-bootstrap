@@ -47,10 +47,7 @@ img {
   display: flex;
   justify-content: end;
 }
-dropdown-menu,
-a:hover {
-  color: yellow !important;
-}
+
 .flex-column {
   background-color: black;
 }
@@ -106,9 +103,13 @@ footer img {
   background-color: transparent !important;
 }
 .dropdown-menu {
-  background-size: auto;
-}
-.dropdown-menu {
   min-width: 10px !important;
   border: 0 !important;
+}
+.dropdown-menu-dark > li a:active {
+  background: transparent !important;
+}
+.dropdown-menu-dark img:hover {
+  filter: opacity(0.5);
+  transition: all 0.4s ease-in-out;
 }
