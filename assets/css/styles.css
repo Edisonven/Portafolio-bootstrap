@@ -75,7 +75,7 @@ img {
 .footer {
   display: flex;
   background-color: black;
-  color: aliceblue;
+  color: rgb(235, 235, 0);
   padding: 15px !important;
   align-items: center;
   gap: 30px;
