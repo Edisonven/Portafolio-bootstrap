@@ -106,14 +106,14 @@ footer img {
   min-width: 10px !important;
   border: 0 !important;
 }
-.dropdown-menu-dark > li a:active {
+.dropdown-menu-dark li a:active {
   background: transparent !important;
 }
 .dropdown-menu-dark img:hover {
   filter: opacity(0.5);
   transition: all 0.4s ease-in-out;
 }
-.dropdown-menu-dark > li a:hover {
+.dropdown-menu-dark li a:hover {
   background: transparent !important;
 }
 
