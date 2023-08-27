@@ -9,7 +9,7 @@
 body {
   background-image: url(../images/fondo.jpg);
   background-size: cover;
-  font-size: 16px;
+  font-size: 10px !important;
 }
 .navbar {
   background-color: black;
@@ -30,10 +30,10 @@ img {
   transition: all 0.4s ease-in-out;
 }
 .saludo {
-  font-size: 100px;
-  padding-left: 3.125rem !important;
-  padding-top: 4.1875rem !important;
-  padding-bottom: 1.25rem !important;
+  font-size: 6rem;
+  padding-left: 0.5em !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.41em !important;
   display: flex;
   justify-content: left;
   text-align: center;
