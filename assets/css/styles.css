@@ -10,6 +10,9 @@ body {
   background-image: url(../images/fondo.jpg);
   background-size: cover;
   font-size: 10px !important;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh !important;
 }
 .navbar {
   background-color: black;
@@ -81,6 +84,9 @@ img {
   align-items: center;
   gap: 30px;
   justify-content: center;
+}
+.aside-footer {
+  margin-top: auto !important;
 }
 footer img {
   width: 1.875rem;
